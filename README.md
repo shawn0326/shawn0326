@@ -9,7 +9,7 @@ My role involves leveraging my skills and creativity to bring dynamic and intera
 |3D Engines|[![My Skills](https://skillicons.dev/icons?i=threejs,godot,unity,unreal,p5js)](https://skillicons.dev)|
 |Front-end Libraries|[![My Skills](https://skillicons.dev/icons?i=rollupjs,vite,vue,electron)](https://skillicons.dev)|
 |Tools|[![My Skills](https://skillicons.dev/icons?i=blender,vscode,nodejs,npm,pnpm,github)](https://skillicons.dev)|
-|Programming Languages|[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,md,wasm,workers)](https://skillicons.dev)|
+|Programming Languages|[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,html,css,md,wasm,workers)](https://skillicons.dev)|
 
 <!--
 <details>
